@@ -1,0 +1,12 @@
+if TARGET_MX6PRETTL
+
+config SYS_BOARD
+	default "mx6prettl"
+
+config SYS_VENDOR
+	default "prettl"
+
+config SYS_CONFIG_NAME
+	default "mx6prettl"
+
+endif

@@ -1,0 +1,8 @@
+MX6PRETTL BOARD
+M:	Jozsef Kovacs <jozsef.kovacs@prettl-electronics.com>
+S:	Maintained
+F:	board/prettl/mx6prettl/
+F:	include/configs/mx6prettl.h
+F:	configs/mx6dlprettl_defconfig
+F:	configs/mx6qprettl_defconfig
+F:	configs/mx6prettl_spl_defconfig
